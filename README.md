@@ -5,7 +5,7 @@ Frankly as much as I’d like this document to be about how I currently work, mu
 
 🧙 My role
 
-I am an engineering lead. Okay, but what do they do? I…
+I am an Engineering manager. Okay, but what do they do? I…
 
 - Represent you and the team to the wider organization
 - Help you achieve your career goals by providing opportunities
@@ -81,5 +81,3 @@ One of the ways I level up is through feedback! Here is how I like my feedback
 💭 Final thoughts
 
 Again, this is not meant to be a comprehensive manual to how I work. Hopefully I’ve given you a… relatively TL;DR guide on how I operate and my expectations 😬. Feel free to come back every once in awhile, I’ll definitely be updating this as I figure out what is working and what isn’t. I look forward to our working relationship and learning more about you. Lastly, if you have written (or plan to) your own ReadMe, please send it my way 🙏. I’d love to learn more about how you operate 🔩 and understand your expectations!
-
-
