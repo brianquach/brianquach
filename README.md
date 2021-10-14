@@ -16,7 +16,7 @@ I am an Engineering manager. Okay, but what do they do? I…
 - Ensure the team is executing on the most valuable work to the organization
 - Provide the vision and context; the why’s
 - Hire great teammates
-- Exemplify and foster our company Culture Code
+- Exemplify and foster our team values
 
 ## 🧞 What I expect from you
 
